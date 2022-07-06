@@ -96,10 +96,27 @@ footer{
     padding-bottom: 10vw;
 }
 .container3{
-    height: 15vw;
     background-color:#e9c0ba;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 a{
     text-decoration: none;
     color: black;
+}
+.new-row{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 2rem;
+}
+.new-row h2{
+    font-weight: 900;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+.new-row p{
+    font-size: 1.8rem;
+    margin: 0;
 }
